@@ -86,7 +86,7 @@ button {
 
 /* ============== STRATEGY ============== */
 .invisible-title {
-    color: #F4F4FD;
+    color: #2E2F42;
 }
 .section-subtitle {
     font-size: 20px;
@@ -104,7 +104,7 @@ button {
 .team {
     background-color: #F4F4FD;
 }
-.team-list {
+.team-list-item {
     background-color: #ffffff;
 }
 .section-title {
@@ -113,6 +113,7 @@ button {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    color: #2E2F42;
 }
 
 .team-paragraph, .team-subtitle {
