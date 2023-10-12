@@ -35,7 +35,7 @@ button {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 .menu-link:hover,
 .menu-link:focus {
@@ -53,7 +53,7 @@ button {
 }
 .contact-list-item:hover,
 .contact-list-item:focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 
